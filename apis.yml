@@ -12,6 +12,17 @@ description: >-
   Spin, Voi, Bolt, Beam, Dott, and Felyx. Drover AI is a portfolio company of 500 Global. No public
   developer portal, OpenAPI, or SDK surface is published; integration is handled directly with operators.
 url: https://raw.githubusercontent.com/api-evangelist/drover-ai/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
